@@ -2,6 +2,8 @@
 
 Welcome to the Genshin Impact Private Server, where the adventure continues beyond the confines of the official game servers!
 
+[img]https://i.imgur.com/X0q87Kq.png[/img]
+
 ## About
 The Genshin Impact Private Server offers an alternative space for players to immerse themselves in the rich world of Teyvat. Experience the wonders of exploration, combat, and camaraderie with fellow travelers in this vibrant online world. Delve into new quests, uncover hidden treasures, and unleash the full potential of your characters in this private server environment.
 
